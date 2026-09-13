@@ -7,3 +7,4 @@ Contains an OLED SCREEN,
          16 Hot swappable  Switches
 
          It is Elagant Beautiful and  great for daily use
+         Also contains some Test Points For Yall :3
