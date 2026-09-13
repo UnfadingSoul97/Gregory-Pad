@@ -260,12 +260,7 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [
-      [
-        "pin_not_connected|508000|1003300|b6c2796b-0330-46da-9560-3f1b9867e047|00000000-0000-0000-0000-000000000000|/a9253a87-bc36-4b6b-9167-fe406c3e7921|/a9253a87-bc36-4b6b-9167-fe406c3e7921|",
-        ""
-      ]
-    ],
+    "erc_exclusions": [],
     "meta": {
       "version": 0
     },
@@ -493,7 +488,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "HackpadV2.kicad_pro",
+    "filename": "Gregory.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -529,9 +524,9 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "../Gerber_Files/",
+      "plot": "../GerberFiles/",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Gregory.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -661,18 +656,18 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "HackpadV2.kicad_sch",
-        "name": "Root",
+        "filename": "Gregory.kicad_sch",
+        "name": "Gregory",
         "uuid": "a9253a87-bc36-4b6b-9167-fe406c3e7921"
       }
     ],
-    "used_designators": "#FLG1-2,J1,U1-2,SW1-17,D1-17,#PWR1-2",
+    "used_designators": "TP1-6,#FLG1-3,J1,U1-2,SW1-17,D1-17,#PWR1-2",
     "variants": []
   },
   "sheets": [
     [
       "a9253a87-bc36-4b6b-9167-fe406c3e7921",
-      "Root"
+      "Gregory"
     ]
   ],
   "text_variables": {},
