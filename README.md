@@ -18,7 +18,7 @@ Welcome to my custom-engineered 4x4 macro pad project, designed as part of the *
 
 ## 📐 Enclosure Design & Architecture
 
-The chassis is designed completely from scratch using **Onshape** using a highly rigid **Bottom-Up Sandwich Mount System**. 
+The chassis is designed completely from scratch using **Onshape** using a highly rigid **Bottom-Up Sandwich Mount System**. My PCB is 110x110mm with curved edges
 
 - **Layer Breakdown:**
   - **Top Bezel Cap:** 4.5mm thick protective frame with a flush 9mm encoder dial portal and a custom 27.5mm tolerance screen window. Totally clean top face with hidden screw anchors.
@@ -39,6 +39,6 @@ The chassis is designed completely from scratch using **Onshape** using a highly
 ## 🎮 How to Assemble (My Build Process)
 
 1. **The Circuit Module:** Solder the 1N4148 matrix diodes and hot-swap sockets onto the underside back face of the custom PCB. Solder the Seeed Studio XIAO module onto its dedicated landing pads.
-2. **Switch Plate Assembly:** Click all 16 Leobog switches directly into the 1.5mm grey switch plate, then firmly press the completed PCB against the bottom pins until they securely seat into the friction-fit hotswap contacts.
+2. **Switch Plate Assembly:** Click all 16 Gateron switches directly into the 1.5mm grey switch plate, then firmly press the completed PCB against the bottom pins until they securely seat into the friction-fit hotswap contacts.
 3. **Chassis Fitment:** Drop the unified switch/PCB module down onto the internal wall shelf step of the lower middle case walls.
 4. **Final Clamping:** Drop the long machine screws up through the bottom 
