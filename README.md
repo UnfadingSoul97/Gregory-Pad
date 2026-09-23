@@ -65,12 +65,22 @@ The chassis is designed completely from scratch using **Onshape** using a highly
 
 ## BOM 👀
 1x 1 SEEEDUINO XIAO RP2040
+
 16x Gateron KS-3X1 Milky Yellow Pro (https://stackskb.com/store/gateron-ks-3x1p-pro-yellows/)
-1x SSD1327 128x128 Oled display (5V VCC, 3.3V logic, I2C)
+
+1x SSD1327 128x128 Oled display (5V VCC, 3.3V logic, I2C)(https://www.waveshare.com/1.5inch-oled-module.htm)
+
 18x N4148 Switching Diodes
+
 16x Kailh Hotswap Switch Sockets
+
 4x 19mm long m3 screws
+
 4x 3mm long m2.2 screws
+
+1x Rotatory Encoder(Without Switch cuz no switch pins)
+
+1x WS2812B RGB LED Strip (Addressable underglow) (https://harishprojects.com/products/ws2812b-rgb-strip-light-programmable-pixel-led-light-5-meter-length?variant=45331583926450&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AU7gw4WRh1LtbVOlv8bOb6F7SFyvggcoRjDHpNgGPT8EKlq-ODOOb_26jOY)
 
 
 
