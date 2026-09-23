@@ -41,4 +41,41 @@ The chassis is designed completely from scratch using **Onshape** using a highly
 1. **The Circuit Module:** Solder the 1N4148 matrix diodes and hot-swap sockets onto the underside back face of the custom PCB. Solder the Seeed Studio XIAO module onto its dedicated landing pads.
 2. **Switch Plate Assembly:** Click all 16 Gateron switches directly into the 1.5mm grey switch plate, then firmly press the completed PCB against the bottom pins until they securely seat into the friction-fit hotswap contacts.
 3. **Chassis Fitment:** Drop the unified switch/PCB module down onto the internal wall shelf step of the lower middle case walls.
-4. **Final Clamping:** Drop the long machine screws up through the bottom 
+4. **Final Clamping:** Drop the long machine screws up through the bottom
+   
+## 🖼️ Image of Gregory
+   <img width="1211" height="763" alt="image" src="https://github.com/user-attachments/assets/02443119-c495-40e8-9124-9227335b2f02" />
+
+## 🖼️ Image of Schematic
+   <img width="1546" height="917" alt="image" src="https://github.com/user-attachments/assets/44d28559-8831-4a1d-8cb7-4fca484bffcc" />
+
+## 🖼️ Image of PCB Design 
+   <img width="841" height="852" alt="image" src="https://github.com/user-attachments/assets/483cf56c-722b-412b-81fd-442c3016c59a" />
+
+## 🖼️ How to fit
+   Top Plate can be fitted on top of the switch plate 
+   <img width="1060" height="863" alt="image" src="https://github.com/user-attachments/assets/ef06e052-54de-4a54-8776-a2911f907f0a" />
+   First PCB and switch plate are joined together and the switches places and then screwed on to the middle body from the top.(with an m2.2 screw)
+   <img width="1098" height="808" alt="image" src="https://github.com/user-attachments/assets/35c289c4-defd-4aef-a999-c39f07b3da83" />
+   The Base,Middle body and top plate are screwed form the bottom with an m.3 screw and it is 19 mm deep.
+   <img width="1116" height="777" alt="image" src="https://github.com/user-attachments/assets/20dc03fb-dd1a-45ce-be83-f4336bf1d2ee" />
+   The switch plate fits inside the the top plate so it looks clean but u can view the top screws from the top.Its to 3d print the same size curves and place then into 
+   a arm rest or accessory as per preference.
+   <img width="1470" height="632" alt="image" src="https://github.com/user-attachments/assets/ac24f95a-2684-4616-9d06-33d0b30fb317" />
+
+## BOM 👀
+1x 1 SEEEDUINO XIAO RP2040
+16x Gateron KS-3X1 Milky Yellow Pro (https://stackskb.com/store/gateron-ks-3x1p-pro-yellows/)
+1x SSD1327 128x128 Oled display (5V VCC, 3.3V logic, I2C)
+18x N4148 Switching Diodes
+16x Kailh Hotswap Switch Sockets
+4x 19mm long m3 screws
+4x 3mm long m2.2 screws
+
+
+
+
+
+
+   
+
