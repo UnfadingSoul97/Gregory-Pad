@@ -47,7 +47,8 @@ The chassis is designed completely from scratch using **Onshape** using a highly
    <img width="1211" height="763" alt="image" src="https://github.com/user-attachments/assets/02443119-c495-40e8-9124-9227335b2f02" />
 
 ## 🖼️ Image of Schematic
-   <img width="1546" height="917" alt="image" src="https://github.com/user-attachments/assets/44d28559-8831-4a1d-8cb7-4fca484bffcc" />
+   <img width="1465" height="751" alt="image" src="https://github.com/user-attachments/assets/12a24383-7166-44ef-a001-989e1e2071bc" />
+
 
 ## 🖼️ Image of PCB Design 
    <img width="841" height="852" alt="image" src="https://github.com/user-attachments/assets/483cf56c-722b-412b-81fd-442c3016c59a" />
