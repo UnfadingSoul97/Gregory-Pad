@@ -51,7 +51,8 @@ The chassis is designed completely from scratch using **Onshape** using a highly
 
 
 ## 🖼️ Image of PCB Design 
-   <img width="841" height="852" alt="image" src="https://github.com/user-attachments/assets/483cf56c-722b-412b-81fd-442c3016c59a" />
+   <img width="865" height="867" alt="image" src="https://github.com/user-attachments/assets/b18db3ea-d038-4576-abe2-43cc033240d3" />
+
 
 ## 🖼️ How to fit
    Top Plate can be fitted on top of the switch plate 
