@@ -1,48 +1,22 @@
 # Gregory-Pad
-# 🚀 Custom 4x4 Mechanical Macro Pad
+# ⌨️ 
+Welcome to my My Gregory PAD a 4x4 macro pad project, designed as for the **Hack Club Stardance/Hackpad** mission! it contains an oled display a rotatory encoder with no switch cuz no extra pin and i didnt know about extenstion modules during the time i built this. and it has a neo pixel backdrop.
+---
+## 📐 Cad Design
 
-Welcome to my custom-engineered 4x4 macro pad project, designed as part of the **Hack Club Stardance/Hackpad** mission! This device features an ortholinear key matrix, advanced anti-ghosting rotary encoder input, and a high-resolution OLED status display screen.
+It Has a top cover/Bezel,Switch plate which stays on top of the middle layer so we can sandwich it between the middle body.
+The Bottom part is sepaerate so easy access to bottom and led.
 
 ---
-
-## 🛠️ Hardware Specifications
-
-- **Microcontroller:** Seeed Studio XIAO 
-- **Key Layout:** 16-key (4x4 Matrix) uniform arrangement (custom `19.69 mm` spacing)
-- **Key Switches:**  Gateron KS-3X1 Milky Yellow Pro Linear Switches with Kailh Hotswap Sockets
-- **Accessory Cluster:** 
-  - 1x Rotary Encoder Volume Dial (equipped with anti-ghosting input isolation diodes `D17` and `D18`)
-  - 1x Waveshare 1.5-inch OLED Display Module (`26.86 mm` active square glass window)
-
----
-
-## 📐 Enclosure Design & Architecture
-
-The chassis is designed completely from scratch using **Onshape** using a highly rigid **Bottom-Up Sandwich Mount System**. My PCB is 110x110mm with curved edges
-
-- **Layer Breakdown:**
-  - **Top Bezel Cap:** 4.5mm thick protective frame with a flush 9mm encoder dial portal and a custom 27.5mm tolerance screen window. Totally clean top face with hidden screw anchors.
-  - **Middle Spacer Walls:** 13mm thick hollow wall ring with integrated rounded internal corner fillets designed to smoothly scatter the underglow light from the RGB LED strip. Features an inline 15mm x 8.5mm side-mounted USB-C pass-through tunnel for maximum cable mold clearance.
-  - **Bottom Base Plate:** 6mm thick solid floor slab featuring 4 deep mechanical counterbore screw pockets to hide the mounting hardware heads completely flush with the desk surface.
-- **Tolerances:** Applied a micro-precise `0.4 mm` gap buffer across all internal pocket steps to easily absorb 3D printing plastic cooling shrinkage without component binding.
-
----
-
-## 📂 Project Repository Structure
-
-- `/KiCad/` - Contains the electrical schematic diagram sheets, netlists, trace footprints, and production Gerber fabrication zip bundles.
-- `/CAD/` - Houses the 3D-printable `.STL` and `.STEP` mechanical mesh file models exported from Onshape.
-- `README.md` - Documentation guide for my hardware build.
-
----
-
-## 🎮 How to Assemble (My Build Process)
-
-1. **The Circuit Module:** Solder the 1N4148 matrix diodes and hot-swap sockets onto the underside back face of the custom PCB. Solder the Seeed Studio XIAO module onto its dedicated landing pads.
-2. **Switch Plate Assembly:** Click all 16 Gateron switches directly into the 1.5mm grey switch plate, then firmly press the completed PCB against the bottom pins until they securely seat into the friction-fit hotswap contacts.
-3. **Chassis Fitment:** Drop the unified switch/PCB module down onto the internal wall shelf step of the lower middle case walls.
-4. **Final Clamping:** Drop the long machine screws up through the bottom
-   
+## 🎮 How to Setup
+Solder the diodes to the pcb.
+then put some solder into the khalih socket then place the hotswap sockets on it and solder.
+Now u can add ur swithes.
+Then solder in the PCB,oled display might need some wires soldred to it so it fits in the whole i made.
+rotatory knob is good.
+now put the switch plate on top and add your switches,Place it on the top of middle body and place the oled in correct postion and place your top cover.
+now screw it down with a M2.2mm flat head screw.
+the bottom uses M3 screws.
 ## 🖼️ Image of Gregory
    <img width="1211" height="763" alt="image" src="https://github.com/user-attachments/assets/02443119-c495-40e8-9124-9227335b2f02" />
 
@@ -65,6 +39,8 @@ The chassis is designed completely from scratch using **Onshape** using a highly
    a arm rest or accessory as per preference.
    <img width="1470" height="632" alt="image" src="https://github.com/user-attachments/assets/ac24f95a-2684-4616-9d06-33d0b30fb317" />
 
+   Yes I indeed added the steps twice but this one has images so and less details.
+
 ## BOM 👀
 1x 1 SEEEDUINO XIAO RP2040
 
@@ -83,6 +59,8 @@ The chassis is designed completely from scratch using **Onshape** using a highly
 1x Rotatory Encoder(Without Switch cuz no switch pins)
 
 1x WS2812B RGB LED Strip (Addressable underglow) (https://harishprojects.com/products/ws2812b-rgb-strip-light-programmable-pixel-led-light-5-meter-length?variant=45331583926450&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AU7gw4WRh1LtbVOlv8bOb6F7SFyvggcoRjDHpNgGPT8EKlq-ODOOb_26jOY)
+
+I did use ai to get the fontsd and the format 
 
 
 
