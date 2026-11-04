@@ -1,6 +1,6 @@
 # Gregory-Pad
 # ⌨️ 
-Welcome to my My Gregory PAD a 4x4 macro pad project, designed as for the **Hack Club Stardance/Hackpad** mission! it contains an oled display a rotatory encoder with no switch cuz no extra pin and i didnt know about extenstion modules during the time i built this. and it has a neo pixel backdrop.
+Welcome to my My Gregory PAD a 4x4 macro pad project, designed for the **Hack Club Stardance/Hackpad** mission! it contains an oled display a rotatory encoder with no switch cuz no extra pin and i didnt know about extenstion modules during the time i built this. and it has a neo pixel backdrop.
 ---
 ## 📐 Cad Design
 
